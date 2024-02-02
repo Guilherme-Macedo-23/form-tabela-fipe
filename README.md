@@ -1,5 +1,4 @@
-
-![GIF 02-02-2024 12-27-03](https://github.com/Guilherme-Macedo-23/form-tabela-fipe/assets/79206432/ff37d83d-89e4-4e9e-89ed-6daae7a1bce4)
+![gif-fipe](https://github.com/Guilherme-Macedo-23/form-tabela-fipe/assets/79206432/7bd63a78-6aed-4983-b0b4-9704a3e0d754)
 
 Link para visualização da aplicação: https://form-tabela-fipe-a4zd-git-main-guilherme-macedos-projects.vercel.app/
 
