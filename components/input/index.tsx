@@ -1,5 +1,5 @@
 import React from 'react';
-import { FormControl, InputLabel, Select, MenuItem, FormHelperText } from '@mui/material';
+import { FormControl, InputLabel, Select, MenuItem, FormHelperText, SelectChangeEvent } from '@mui/material';
 import styled from 'styled-components';
 
 interface Option {
@@ -10,7 +10,7 @@ interface Option {
 interface InputSelectProps {
   options: Option[];
   value: string;
-  onChange: (event: React.ChangeEvent<{ value: unknown }>) => void;
+  onChange: (event: SelectChangeEvent<unknown>) => void;
   label: string;
   error: boolean;
   hidden?: boolean;
